@@ -8,7 +8,3 @@ finally the application will request the attendance sheet from the server
 
 
 
-<p align="center">
-  <img src="C:\Users\AbdelRhman\Downloads\1" width="350" title="hover text">
-  <img src="C:\Users\AbdelRhman\Downloads\2" width="350" alt="accessibility text">
-</p>
