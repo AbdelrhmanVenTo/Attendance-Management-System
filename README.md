@@ -19,7 +19,11 @@ finally the application will request the attendance sheet from the server <br/>
 <br/>
 <br/>server Professor Management : <br/>
 ![54544154-ab129a80-49a7-11e9-8a4c-dcf62b54a974](https://user-images.githubusercontent.com/12888482/62386891-6dc73780-b559-11e9-81d9-138c67e5a344.jpg)
+<br/>
+<br/>
 
+<br/>Server Student Management : <br/>
+![54544269-e745fb00-49a7-11e9-9fc1-58711645338b](https://user-images.githubusercontent.com/12888482/62386916-80417100-b559-11e9-86d9-e0ee1b6f88d7.jpg)
 <br/>
 <br/>
 
