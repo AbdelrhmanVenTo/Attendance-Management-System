@@ -7,4 +7,26 @@ then the server will interact with the database to get the data required for the
 finally the application will request the attendance sheet from the server <br/>
 <br/>Server Home : <br/>
 ![54543041-933a1700-49a5-11e9-8233-332cd476f9a9](https://user-images.githubusercontent.com/12888482/62386623-b6cabc00-b558-11e9-8543-cf4d659dbf60.jpg)
+<br/>
+<br/>
+<br/>Server Course Management : <br/>
+![54543675-c335ea00-49a6-11e9-9899-887292b7b540](https://user-images.githubusercontent.com/12888482/62386835-47a19780-b559-11e9-8977-310ab5935ba4.jpg)
+<br/>
+<br/>
+<br/>Course Editing Process : <br/>
+![54543874-1b6cec00-49a7-11e9-842f-de9edf94c775](https://user-images.githubusercontent.com/12888482/62386871-5e47ee80-b559-11e9-946e-4b19bff5ffec.jpg)
+<br/>
+<br/>
+<br/>server Professor Management : <br/>
+![54544154-ab129a80-49a7-11e9-8a4c-dcf62b54a974](https://user-images.githubusercontent.com/12888482/62386891-6dc73780-b559-11e9-81d9-138c67e5a344.jpg)
+
+<br/>
+<br/>
+<br/>Server Student Management : <br/>
+![54544269-e745fb00-49a7-11e9-9fc1-58711645338b](https://user-images.githubusercontent.com/12888482/62386916-80417100-b559-11e9-86d9-e0ee1b6f88d7.jpg)
+<br/>
+<br/>
+<br/>Server Report Management : <br/>
+<br/>
+![54547321-270fe100-49ae-11e9-8088-90df5a0d72d1](https://user-images.githubusercontent.com/12888482/62386934-8c2d3300-b559-11e9-9671-e932c11b45ac.jpg)
 
