@@ -22,11 +22,4 @@ finally the application will request the attendance sheet from the server <br/>
 
 <br/>
 <br/>
-<br/>Server Student Management : <br/>
-![54544269-e745fb00-49a7-11e9-9fc1-58711645338b](https://user-images.githubusercontent.com/12888482/62386916-80417100-b559-11e9-86d9-e0ee1b6f88d7.jpg)
-<br/>
-<br/>
-<br/>Server Report Management : <br/>
-<br/>
-![54547321-270fe100-49ae-11e9-8088-90df5a0d72d1](https://user-images.githubusercontent.com/12888482/62386934-8c2d3300-b559-11e9-9671-e932c11b45ac.jpg)
 
